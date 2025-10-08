@@ -9,3 +9,10 @@ All labs are built using **Cisco Packet Tracer** and focus on practical networki
 - Explore **bus, star, ring, mesh, and hybrid** topologies
 - Learn about scalability, fault tolerance, and performance trade-offs
 - Practice device setup, cabling, IP addressing, and connectivity testing
+
+### 2. Router and Subnet Configuration
+- Designed a **four-subnet topology** connected via a central router  
+- Configured **default gateways** and **subnets** for each network segment  
+- Verified end-to-end connectivity between PCs across subnets using **ping** and **traceroute**  
+- Implemented logical segmentation using **Switch-PT** and **Router-PT** devices  
+- Demonstrated basic **inter-network communication** setup and subnet isolation 
