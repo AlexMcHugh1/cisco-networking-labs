@@ -33,3 +33,10 @@ All labs are built using **Cisco Packet Tracer** and focus on practical networki
 - Used `Router(config-router)#network <address>` commands for RIP configuration  
 - **Topology:** Three routers (Router2, Router3, Router4) interconnecting three LANs with switches and end devices  
 
+### 5. Multi-Router Departmental Network (Admin, HR, IT, Inventory)
+- Designed a **four-department enterprise topology** (Admin, HR, IT, Inventory)  
+- Each department operates on a **separate LAN** with dedicated switches and routers  
+- Configured **inter-router connectivity** using serial links between routers  
+- Implemented **IP addressing**, **gateway configuration**, and **connectivity testing** across all segments  
+- Verified **end-to-end communication** using `ping` and `traceroute` commands  
+- Incorporated **printers and laptops** for realistic office simulation  
